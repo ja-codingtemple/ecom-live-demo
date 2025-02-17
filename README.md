@@ -1,8 +1,5 @@
-# React + Vite
+# Advanced JavaScript & Intro to React (E-Commerce Product Listing App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Source code from the live lesson. Feel free to clone or download the repository.
+- Custom CSS styling has been removed.
+- The addition of the 'category' property has also been removed from the products in the products list.
